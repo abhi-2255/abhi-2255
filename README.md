@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/abhinand_offl" target="blank"><img src="https://img.shields.io/twitter/follow/abhinand_offl?logo=twitter&style=for-the-badge" alt="abhinand_offl" /></a> </p>
 
-- 🔭 I’m seeking job opportunites on **Developer roles.**
+- 🔭 I’m seeking job opportunites on **Software Developer roles.**
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi-2255](https://github.com/abhi-2255)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript and Nodejs**
+- 💬 Ask me about **HTML5, CSS3, TailwindCSS, Javascript and Nodejs**
 
 - 📫 How to reach me **abhinandpv820@gmail.com**
 
