@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinand PV</h1>
-<h3 align="center">A passionate self-learnt Full Stack Developer from Kerala.</h3>
+<h3 align="center">A passionate self-learnt Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-2255&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-2255" /> </p>
 
@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/abhinand_offl" target="blank"><img src="https://img.shields.io/twitter/follow/abhinand_offl?logo=twitter&style=for-the-badge" alt="abhinand_offl" /></a> </p>
 
-- 🔭 I’m seeking job opportunites on **Software Developer roles.**
+- 🔭 I’m exploring opportunites on **Software Development field.**
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **latest technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi-2255](https://github.com/abhi-2255)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript and Nodejs**
+- 💬 Ask me about **HTML5, CSS3, TailwindCSS, Javascript and Nodejs**
 
 - 📫 How to reach me **abhinandpv820@gmail.com**
-
-- ⚡ Fun fact **I'm crazy:)**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
