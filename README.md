@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, TailwindCSS, Javascript and Nodejs**
 
-- 📫 How to reach me **abhinandpv820@gmail.com**
+- 📫 Reach me on **abhinandpv820@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
