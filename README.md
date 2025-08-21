@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi-2255](https://github.com/abhi-2255)
 
-- 💬 Ask me about **HTML5, CSS3, TailwindCSS, Javascript and Nodejs**
+- 💬 Ask me anything about **Javascript, Nodejs, MongoDB & React**
 
 - 📫 Reach me on **abhinandpv820@gmail.com**
   
