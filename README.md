@@ -11,7 +11,7 @@
 
 - 🌱 Currently **upskilling myself.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhi-2255](https://github.com/abhi-2255)
+- 👨‍💻 All of my projects are available at [here](https://github.com/abhi-2255)
 
 - 💬 Ask me about **Javascript, Node.js, Express.js & React**
 
