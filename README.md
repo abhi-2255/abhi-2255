@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinand_offl" target="blank"><img src="https://img.shields.io/twitter/follow/abhinand_offl?logo=twitter&style=for-the-badge" alt="abhinand_offl" /></a> </p>
 
-- 🔭 I’m seeking job opportunites on **Software Developer roles.**
+- 🔭 I’m exploring opportunites on **Software Developer roles.**
 
 - 🌱 Currently **upskilling myself.**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, Node.js, Express.js & React**
 
-- 📫 Send a mail to **abhinandpv820@gmail.com**
+- 📫 Contact me **+91 9188769267**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
