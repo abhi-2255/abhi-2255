@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/abhinand_offl" target="blank"><img src="https://img.shields.io/twitter/follow/abhinand_offl?logo=twitter&style=for-the-badge" alt="abhinand_offl" /></a> </p>
 
 
-- 📫 Feel free to reach out for a Tech-Chat **+91 9188769267**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me on:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinand_offl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinand_offl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinand-pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinand-pv" height="30" width="40" /></a>
@@ -30,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-2255&show_icons=true&locale=en" alt="abhi-2255" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-2255&" alt="abhi-2255" /></p>
+
+- 💬 Feel free to reach out for a Tech-Chat **+91 9188769267**
