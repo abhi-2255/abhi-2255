@@ -7,15 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/abhinand_offl" target="blank"><img src="https://img.shields.io/twitter/follow/abhinand_offl?logo=twitter&style=for-the-badge" alt="abhinand_offl" /></a> </p>
 
-- 🔭 I’m exploring opportunites on **Software Developer roles.**
 
-- 🌱 Currently **upskilling myself.**
-
-- 👨‍💻 All of my projects are [here](https://github.com/abhi-2255?tab=repositories)
-
-- 💬 Ask me about **Javascript, Node.js, Express.js & React**
-
-- 📫 Contact me **+91 9188769267**
+- 📫 Feel free to reach out for a Tech-Chat **+91 9188769267**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
